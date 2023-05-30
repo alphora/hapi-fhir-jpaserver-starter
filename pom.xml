@@ -455,7 +455,7 @@
                             <goal>repackage</goal>
                         </goals>
                         <configuration>
-                            <mainClass>ca.uhn.fhir.jpa.starter.Application</mainClass>
+                            <mainClass>org.opencds.cqf.jpa.starter.Application</mainClass>
                         </configuration>
                     </execution>
                 </executions>
